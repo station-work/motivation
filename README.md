@@ -4,6 +4,8 @@ why I created station work?
 
 The Station Work is based in a physical space work change to digital space.
 
+The free and open source alternative to workos
+
 ## Licence MIT
 
 Copyright © 2021 <copyright holders>
